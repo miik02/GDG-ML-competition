@@ -1,0 +1,15 @@
+# Carpetas de datos y resultados
+data/
+results/
+
+# Modelos pesados
+*.pt
+
+# Archivos generados y temporales
+*.html
+__pycache__/
+
+# Entornos virtuales (por si acaso)
+venv/
+.venv/
+env/
